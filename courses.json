@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "title": "Cooking Basics for Beginners",
+      "description": "Learn fundamental cooking techniques, knife skills, and simple recipes to get started in the kitchen.",
+      "duration": "4 weeks",
+      "level": "Beginner",
+      "topics": [
+        "Kitchen safety",
+        "Basic knife skills",
+        "Cooking methods (boiling, frying, baking)",
+        "Easy beginner recipes"
+      ]
+    },
+    {
+      "title": "Mastering Essential Cooking Techniques",
+      "description": "Develop professional-level skills in sautéing, roasting, grilling, and more.",
+      "duration": "6 weeks",
+      "level": "Intermediate",
+      "topics": [
+        "Sautéing and stir-frying",
+        "Roasting and grilling",
+        "Sauce making",
+        "Meal prep strategies"
+      ]
+    },
+    {
+      "title": "Healthy Cooking and Meal Planning",
+      "description": "Learn how to prepare nutritious meals that fit your lifestyle.",
+      "duration": "5 weeks",
+      "level": "All Levels",
+      "topics": [
+        "Healthy ingredient selection",
+        "Balanced meal planning",
+        "Low-calorie cooking techniques",
+        "Special dietary needs (vegan, gluten-free, keto)"
+      ]
+    },
+    {
+      "title": "International Cuisine: Cooking Around the World",
+      "description": "Explore and cook dishes from different cultures, from Italian pasta to Japanese sushi.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "topics": [
+        "Italian cuisine",
+        "Asian flavors",
+        "Mexican dishes",
+        "Mediterranean cooking"
+      ]
+    },
+    {
+      "title": "Advanced Culinary Skills: Cooking Like a Chef",
+      "description": "Take your cooking to the next level with gourmet techniques and plating skills.",
+      "duration": "10 weeks",
+      "level": "Advanced",
+      "topics": [
+        "Sous-vide cooking",
+        "Molecular gastronomy",
+        "Fine dining presentation",
+        "Creative flavor pairings"
+      ]
+    }
+  ]
+}

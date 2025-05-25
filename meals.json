@@ -1,0 +1,776 @@
+{
+  "meals": [
+    {
+      "idMeal": "53061",
+      "strMeal": "Fresh Sardines",
+      "strCategory": "Side",
+      "strArea": "Croatian",
+      "strInstructions": "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy. Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+      "strTags": "Fresh",
+      "strTime": "20 min",
+      "strCalories": "140 kcal"
+    },
+    {
+      "idMeal": "52796",
+      "strMeal": "Chicken Alfredo",
+      "strCategory": "Main",
+      "strArea": "Italian",
+      "strInstructions": "Cook the pasta and set aside. In a pan, melt butter, add garlic, and cook chicken. Stir in cream and Parmesan cheese. Mix with pasta and serve hot.",
+      "strMealThumb": "https://th.bing.com/th/id/R.b7727935b7bb470603e00c64bdfbf27d?rik=mDoJO681lDwAag&pid=ImgRaw&r=0",
+      "strTags": "Creamy",
+      "strTime": "30 min",
+      "strCalories": "600 kcal"
+    },
+    {
+      "idMeal": "53013",
+      "strMeal": "Beef Stroganoff",
+      "strCategory": "Main",
+      "strArea": "Russian",
+      "strInstructions": "Slice beef into strips, sauté in butter, add onions and mushrooms, and cook with sour cream. Serve over egg noodles or rice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+      "strTags": "Savory",
+      "strTime": "35 min",
+      "strCalories": "550 kcal"
+    },
+    {
+      "idMeal": "52777",
+      "strMeal": "Tuna Nicoise Salad",
+      "strCategory": "Salad",
+      "strArea": "French",
+      "strInstructions": "Combine tuna, boiled eggs, green beans, tomatoes, and olives with a simple vinaigrette. Serve chilled.",
+      "strMealThumb": "https://www.eatingwell.com/thmb/k3Zl3Ki_VTv71ZU_Vy7pJrRTp10=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tuna-Nicoise-Salad-2683-1-a33ad1a2a6054bde8d49722f46b3031f.jpg",
+      "strTags": "Healthy",
+      "strTime": "25 min",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "52897",
+      "strMeal": "Grilled Salmon",
+      "strCategory": "Main",
+      "strArea": "American",
+      "strInstructions": "Season salmon with salt, pepper, and lemon. Grill until cooked through. Serve with vegetables or rice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+      "strTags": "Healthy",
+      "strTime": "30 min",
+      "strCalories": "400 kcal"
+    },
+    {
+      "idMeal": "52954",
+      "strMeal": "Vegetable Stir Fry",
+      "strCategory": "Vegetarian",
+      "strArea": "Asian",
+      "strInstructions": "Sauté mixed vegetables in sesame oil with garlic and soy sauce. Serve with rice or noodles.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "strTags": "Vegan",
+      "strTime": "15 min",
+      "strCalories": "280 kcal"
+    },
+    {
+      "idMeal": "55792",
+      "strMeal": "Paella Roja",
+      "strCategory": "Spain",
+      "strArea": "Europe",
+      "strInstructions": "Sauté mixed vegetables in sesame oil with garlic and soy sauce. Serve with rice or noodles.",
+      "strMealThumb": "https://i.pinimg.com/originals/c3/63/2b/c3632b1c64e752a4497c3de4834460bc.jpg",
+      "strTags": "Vegan",
+      "strTime": "35 min",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "53062",
+      "strMeal": "Greek Salad",
+      "strCategory": "Salad",
+      "strArea": "Greek",
+      "strInstructions": "Chop cucumbers, tomatoes, onions, and bell peppers. Add olives and feta cheese. Dress with olive oil, lemon juice, and oregano.",
+      "strMealThumb": "https://www.modernhoney.com/wp-content/uploads/2023/03/Greek-Salad-1-crop-768x802.jpg",
+      "strTags": "Healthy",
+      "strTime": "15 min",
+      "strCalories": "200 kcal"
+    },
+    {
+      "idMeal": "53063",
+      "strMeal": "Shakshuka",
+      "strCategory": "Breakfast",
+      "strArea": "Middle Eastern",
+      "strInstructions": "Sauté onions, garlic, and bell peppers in olive oil. Add tomatoes and spices, then poach eggs in the sauce. Serve with bread.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "strTags": "Spicy",
+      "strTime": "25 min",
+      "strCalories": "300 kcal"
+    },
+    {
+      "idMeal": "53064",
+      "strMeal": "Miso Soup",
+      "strCategory": "Soup",
+      "strArea": "Japanese",
+      "strInstructions": "Dissolve miso paste in hot dashi broth. Add tofu, seaweed, and green onions. Serve warm.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.U_vr4XcV__V4Anbt6SY31QHaHa?w=768&h=768&rs=1&pid=ImgDetMain",
+      "strTags": "Light",
+      "strTime": "10 min",
+      "strCalories": "120 kcal"
+    },
+    {
+      "idMeal": "53065",
+      "strMeal": "Butter Chicken",
+      "strCategory": "Main",
+      "strArea": "Indian",
+      "strInstructions": "Marinate chicken in yogurt and spices. Cook with tomato-based sauce, butter, and cream. Serve with rice or naan.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "strTags": "Spicy",
+      "strTime": "40 min",
+      "strCalories": "550 kcal"
+    },
+    {
+      "idMeal": "53066",
+      "strMeal": "Fish Tacos",
+      "strCategory": "Main",
+      "strArea": "Mexican",
+      "strInstructions": "Grill fish with lime and spices. Serve in tortillas with cabbage, salsa, and sour cream.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "strTags": "Fresh",
+      "strTime": "30 min",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "53067",
+      "strMeal": "Borscht",
+      "strCategory": "Soup",
+      "strArea": "Russian",
+      "strInstructions": "Boil beets, cabbage, and potatoes in broth. Add vinegar and seasonings. Serve with sour cream.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "strTags": "Savory",
+      "strTime": "50 min",
+      "strCalories": "180 kcal"
+    },
+    {
+      "idMeal": "53068",
+      "strMeal": "Pho",
+      "strCategory": "Soup",
+      "strArea": "Vietnamese",
+      "strInstructions": "Simmer beef bones with spices for broth. Cook rice noodles and serve with sliced beef, herbs, and lime.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+      "strTags": "Aromatic",
+      "strTime": "90 min",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "53069",
+      "strMeal": "Pav Bhaji",
+      "strCategory": "Street Food",
+      "strArea": "Indian",
+      "strInstructions": "Mash boiled vegetables with spices and butter. Serve with toasted bread rolls.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "strTags": "Spicy",
+      "strTime": "35 min",
+      "strCalories": "400 kcal"
+    },
+    {
+      "idMeal": "53070",
+      "strMeal": "Croissants",
+      "strCategory": "Bakery",
+      "strArea": "French",
+      "strInstructions": "Prepare laminated dough with butter. Roll, shape, and bake until golden brown.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
+      "strTags": "Flaky",
+      "strTime": "240 min",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "53071",
+      "strMeal": "Baklava",
+      "strCategory": "Dessert",
+      "strArea": "Turkish",
+      "strInstructions": "Layer filo pastry with nuts and honey syrup. Bake until crispy and golden.",
+      "strMealThumb": "https://hizliservis.mado.com.tr/mado-fistikli-baklava-serbetli-tatlilar-mado-885-18-B.jpg",
+      "strTags": "Sweet",
+      "strTime": "60 min",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "1",
+      "strMeal": "Peking Duck",
+      "strCategory": "Main Course",
+      "strArea": "Chinese",
+      "strInstructions": "Rub the duck with a mixture of honey and spices, then let it marinate. Roast until crispy. Serve with thin pancakes, green onions, and hoisin sauce.",
+      "strMealThumb": "https://img.pikbest.com/photo/20240524/peking-roast-duck-close-up-hyper-detailed-trending_10582386.jpg!w700wp",
+      "strTags": "Classic",
+      "strTime": "120 min",
+      "strCalories": "340 kcal"
+    },
+    {
+      "idMeal": "2",
+      "strMeal": "Sweet and Sour Pork",
+      "strCategory": "Main Course",
+      "strArea": "Chinese",
+      "strInstructions": "Fry pork pieces until golden brown. Prepare a sauce using ketchup, vinegar, sugar, and pineapple juice. Mix pork with the sauce and serve with rice.",
+      "strMealThumb": "https://thefoodcafe.com/wp-content/uploads/2018/12/Square-image-sweet-and-sour-pork-The-Food-Cafe.jpg",
+      "strTags": "Popular",
+      "strTime": "45 min",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "3",
+      "strMeal": "Dim Sum",
+      "strCategory": "Appetizer",
+      "strArea": "Chinese",
+      "strInstructions": "Prepare thin dough and a filling of meat or vegetables. Shape small dumplings and steam them until fully cooked. Serve with soy sauce.",
+      "strMealThumb": "https://www.kingchefph.com/cdn/shop/products/DimsumPlatter2_allfried_700x.jpg?v=1665156141",
+      "strTags": "Traditional",
+      "strTime": "60 min",
+      "strCalories": "250 kcal"
+    },
+    {
+      "idMeal": "4",
+      "strMeal": "Cantonese Fried Rice",
+      "strCategory": "Main Course",
+      "strArea": "Chinese",
+      "strInstructions": "Stir-fry cooked rice with eggs, green onions, peas, and finely chopped meat or shrimp. Season with soy sauce and serve hot.",
+      "strMealThumb": "https://cookingwithcurls.com/wp-content/uploads/2015/02/Shrimp-Fried-Rice-for-dinner-tonight-cookingwithcurls.com_.jpg",
+      "strTags": "Quick",
+      "strTime": "30 min",
+      "strCalories": "300 kcal"
+    },
+    {
+      "idMeal": "5",
+      "strMeal": "Shark Fin Soup",
+      "strCategory": "Soup",
+      "strArea": "Chinese",
+      "strInstructions": "Prepare a broth from chicken and pork, add soaked shark fins, and simmer until soft. Serve hot, garnished with greens.",
+      "strMealThumb": "https://theedibleprojects.com/cdn/shop/files/Coverimage-_2_1024x1024.jpg?v=1688468196",
+      "strTags": "Delicacy",
+      "strTime": "180 min",
+      "strCalories": "150 kcal"
+    },
+    {
+      "idMeal": "KZ001",
+      "strMeal": "Beshbarmak",
+      "strCategory": "Main Course",
+      "strArea": "Kazakh",
+      "strInstructions": "Boil meat (usually lamb or beef) until tender. Prepare flat noodles separately. Serve the meat over the noodles with a side of broth (sorpa). Traditionally eaten with hands.",
+      "strMealThumb": "https://c8.alamy.com/comp/2FND41Y/isolated-kazakh-national-dish-beshbarmak-2FND41Y.jpg",
+      "strTags": "Meat, Noodles, Traditional",
+      "strTime": "2 hours",
+      "strCalories": "650 kcal"
+    },
+    {
+      "idMeal": "KZ002",
+      "strMeal": "Kazy",
+      "strCategory": "Appetizer",
+      "strArea": "Kazakh",
+      "strInstructions": "Clean and season horse meat with salt and spices. Stuff into natural casing and allow to dry and age. Serve sliced thinly, often with bread or as part of a larger meal.",
+      "strMealThumb": "img/DALL·E 2025-02-16 17.28.42 - A traditional Kazakh dish called kazy, featuring horse meat sausage sliced on a wooden plate with garnishes like onions and herbs. The dish is present.webp",
+      "strTags": "Horse meat, Sausage, Traditional",
+      "strTime": "Several days",
+      "strCalories": "300 kcal"
+    },
+    {
+      "idMeal": "KZ003",
+      "strMeal": "Baursak",
+      "strCategory": "Dessert",
+      "strArea": "Kazakh",
+      "strInstructions": "Mix flour, yeast, sugar, and milk to form a dough. Let it rise. Cut into pieces and deep-fry until golden brown. Serve with honey or jam.",
+      "strMealThumb": "https://th.bing.com/th/id/R.1eb4c5f717f901f5b328f0ccfe889138?rik=M65spm8GJ%2fSu8w&pid=ImgRaw&r=0",
+      "strTags": "Sweet, Fried, Snack",
+      "strTime": "1 hour",
+      "strCalories": "400 kcal"
+    },
+    {
+      "idMeal": "KZ004",
+      "strMeal": "Manti",
+      "strCategory": "Main Course",
+      "strArea": "Kazakh",
+      "strInstructions": "Prepare a dough and cut into squares. Fill with minced lamb or beef and season with onions and spices. Steam for 40 minutes and serve with butter or sour cream.",
+      "strMealThumb": "https://th.bing.com/th/id/R.b7bf5afc4e403a3bbf8f5e9b9cbb7f8e?rik=hz0%2f9Z3JDig7OQ&pid=ImgRaw&r=0",
+      "strTags": "Dumplings, Meat, Steamed",
+      "strTime": "1.5 hours",
+      "strCalories": "550 kcal"
+    },
+    {
+      "idMeal": "KZ005",
+      "strMeal": "Shubat",
+      "strCategory": "Beverage",
+      "strArea": "Kazakh",
+      "strInstructions": "Ferment fresh camel milk for 24-48 hours. Serve chilled as a refreshing and nutritious drink.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.p-v5NR2rUKy3ZHqG2wxDjAAAAA?w=296&h=280&rs=1&pid=ImgDetMain",
+      "strTags": "Fermented, Drink, Healthy",
+      "strTime": "2 days",
+      "strCalories": "110 kcal"
+    },
+    {
+      "idMeal": "KZ006",
+      "strMeal": "Kuurdak",
+      "strCategory": "Main Course",
+      "strArea": "Kazakh",
+      "strInstructions": "Cut lamb or beef into small pieces. Fry in animal fat with onions and potatoes until golden brown. Serve hot.",
+      "strMealThumb": "https://th.bing.com/th/id/R.1e76321471523a2790ae752863d9d812?rik=fP8WJTEEUG8Rgg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-aZnD5bA1P5w%2fTbRlWGiOmeI%2fAAAAAAAAAVk%2foXUXXYvvMmM%2fs1600%2fChicken%2bKuurdak.JPG&ehk=OkgbTeDGQrQg35AZp95xCXrFVupL0CSPQVUExwqIH2M%3d&risl=&pid=ImgRaw&r=0",
+      "strTags": "Fried, Meat, Potatoes",
+      "strTime": "1 hour",
+      "strCalories": "600 kcal"
+    },
+    {
+      "idMeal": "KZ008",
+      "strMeal": "Sorpa",
+      "strCategory": "Soup",
+      "strArea": "Kazakh",
+      "strInstructions": "Boil meat bones (lamb or beef) for several hours to make a rich broth. Add salt and black pepper to taste. Serve hot with bread.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.WAzQXH4HV8A0zrXSCsN4awHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+      "strTags": "Soup, Broth, Traditional",
+      "strTime": "3 hours",
+      "strCalories": "150 kcal"
+    },
+    {
+      "idMeal": "KZ009",
+      "strMeal": "Kurt",
+      "strCategory": "Snack",
+      "strArea": "Kazakh",
+      "strInstructions": "Ferment milk, add salt, and shape into small balls. Let dry completely. Serve as a salty snack.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.YvoZURI5tkyhmfpjrNtyTQHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain",
+      "strTags": "Dried, Dairy, Salty",
+      "strTime": "Several days",
+      "strCalories": "180 kcal"
+    },
+    {
+    "idMeal": "KZ010",
+    "strMeal": "Zhent",
+    "strCategory": "Dessert",
+    "strArea": "Kazakh",
+    "strInstructions": "Mix crushed millet with sugar, butter, and dried fruits. Press into a dish and chill before serving.",
+    "strMealThumb": "https://p1.ssl.qhimg.com/dr/270_500_/t0185f0df7a26726cad.jpg?size=500x500",
+    "strTags": "Sweet, Millet, Dessert",
+    "strTime": "30 minutes",
+    "strCalories": "250 kcal"
+  },
+  {
+    "idMeal": "KZ011",
+    "strMeal": "Kumis",
+    "strCategory": "Beverage",
+    "strArea": "Kazakh",
+    "strInstructions": "Ferment fresh mare’s milk for 24-48 hours. Serve chilled.",
+    "strMealThumb": "https://th.bing.com/th/id/OIP.IVKzEsrc0We3Evlp4ZSsTgAAAA?w=450&h=444&rs=1&pid=ImgDetMain ",
+    "strTags": "Fermented, Drink, Alcoholic",
+    "strTime": "2 days",
+    "strCalories": "120 kcal"
+  },{
+      "idMeal": "UZB001",
+      "strMeal": "Plov",
+      "strCategory": "Main",
+      "strArea": "Uzbek",
+      "strInstructions": "Heat oil in a large pot, fry onions until golden, add meat and brown. Stir in carrots, then add water and spices. Simmer until meat is tender. Add rinsed rice on top, do not stir. Cover and cook on low heat until rice absorbs the liquid. Let rest before serving.",
+      "strMealThumb": "https://th.bing.com/th/id/R.7e2522953db87ac9b34e683183a8474b?rik=fCNioGNe06EN4Q&riu=http%3a%2f%2ffoodies.academy%2fwp-content%2fuploads%2f2020%2f04%2fdsc05353-1-601x601.jpg&ehk=LyuYbNb%2brFo3YSRjhtyJdTNUOt393lQRxkX6cib0oxw%3d&risl=&pid=ImgRaw&r=0",
+      "strTags": "Rice, Meat",
+      "strTime": "1.5 hours",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "UZB002",
+      "strMeal": "Somsa",
+      "strCategory": "Snack",
+      "strArea": "Uzbek",
+      "strInstructions": "Prepare dough and let it rest. Roll out and cut into squares. Fill with minced meat, onions, and spices. Fold into triangles and seal edges. Bake in a preheated oven at 200°C (392°F) until golden brown.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.PqGBla5IqvTwfOL2_vD14wHaFj?w=650&h=487&rs=1&pid=ImgDetMain",
+      "strTags": "Pastry, Baked",
+      "strTime": "1 hour",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "UZB003",
+      "strMeal": "Lagman",
+      "strCategory": "Soup",
+      "strArea": "Uzbek",
+      "strInstructions": "Cook hand-pulled noodles. In a separate pan, sauté onions, garlic, and meat. Add tomatoes, bell peppers, and spices. Pour water or broth and simmer until flavors blend. Serve over noodles.",
+      "strMealThumb": "https://cdn.tgdd.vn/2020/09/CookRecipe/GalleryStep/thanh-pham-966.jpg",
+      "strTags": "Soup, Noodles",
+      "strTime": "1.5 hours",
+      "strCalories": "380 kcal"
+    },{
+      "idMeal": "UZB006",
+      "strMeal": "Chuchvara",
+      "strCategory": "Dumplings",
+      "strArea": "Uzbek",
+      "strInstructions": "Prepare dough and roll out thin. Cut into small squares, fill with minced meat, and fold into small dumplings. Boil in broth until they float. Serve with sour cream or in soup.",
+      "strMealThumb": "https://api.chaihana-minsk.by/wp-content/uploads/2019/09/%D0%A7%D1%83%D1%87%D0%B2%D0%B0%D1%80%D0%B0-%D1%88%D1%83%D1%80%D0%BF%D0%B0-8-%D1%80-1024x879.jpg",
+      "strTags": "Boiled, Dumplings",
+      "strTime": "1.5 hours",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "GEO001",
+      "strMeal": "Khinkali",
+      "strCategory": "Dumplings",
+      "strArea": "Georgian",
+      "strInstructions": "Prepare dough and let it rest. Roll out and cut into circles. Fill with seasoned minced meat and fold into pleated dumplings. Boil in salted water until they float. Serve hot with black pepper.",
+      "strMealThumb": "https://th.bing.com/th/id/R.0f2175091806e85321e6260ef319dc53?rik=H9zJywkwqkWRfQ&pid=ImgRaw&r=0",
+      "strTags": "Dumplings, Boiled",
+      "strTime": "1 hour",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "GEO002",
+      "strMeal": "Khachapuri",
+      "strCategory": "Bread",
+      "strArea": "Georgian",
+      "strInstructions": "Prepare dough and let it rise. Roll out and shape into a boat. Fill with cheese and bake in a preheated oven at 200°C (392°F) until golden brown. Add an egg yolk before serving.",
+      "strMealThumb": "https://i1.wp.com/cdn.momsdish.com/wp-content/uploads/2022/09/Khachapuri-Recipe-012-600x400.jpg?resize=1200%2C1200&strip=info&ssl=1",
+      "strTags": "Cheese, Baked",
+      "strTime": "1.5 hours",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "GEO003",
+      "strMeal": "Lobio",
+      "strCategory": "Stew",
+      "strArea": "Georgian",
+      "strInstructions": "Soak red beans overnight. Boil until tender. Sauté onions, garlic, and spices. Mash some of the beans and mix with sautéed ingredients. Simmer until thickened. Serve with cornbread.",
+      "strMealThumb": "https://th.bing.com/th/id/R.48d8a620439ef607cc05eb9f1800e925?rik=01ZGoyezYjQb5g&pid=ImgRaw&r=0",
+      "strTags": "Beans, Vegetarian",
+      "strTime": "2 hours",
+      "strCalories": "280 kcal"
+    },
+    {
+      "idMeal": "GEO004",
+      "strMeal": "Satsivi",
+      "strCategory": "Main",
+      "strArea": "Georgian",
+      "strInstructions": "Boil chicken until tender. Blend walnuts, garlic, and spices into a paste. Mix with chicken broth to create a sauce. Simmer chicken in the sauce until thickened. Serve cold.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.RjVLhh5qamTgwABzy60wPAHaHa?w=1120&h=1120&rs=1&pid=ImgDetMain",
+      "strTags": "Walnut, Chicken",
+      "strTime": "2.5 hours",
+      "strCalories": "500 kcal"
+    },
+    {
+      "idMeal": "GEO005",
+      "strMeal": "Chakapuli",
+      "strCategory": "Stew",
+      "strArea": "Georgian",
+      "strInstructions": "Sauté onions and garlic. Add lamb, white wine, and tarragon. Simmer with plums and spices until the meat is tender. Serve hot with bread.",
+      "strMealThumb": "https://gruziyagid.ru/wp-content/uploads/2018/07/CHakapuli-iz-baraniny-po-gruzinski1-e1531801385336.jpg",
+      "strTags": "Lamb, Stew",
+      "strTime": "2 hours",
+      "strCalories": "400 kcal"
+    },
+    {
+      "idMeal": "GEO006",
+      "strMeal": "Badrijani Nigvzit",
+      "strCategory": "Appetizer",
+      "strArea": "Georgian",
+      "strInstructions": "Slice eggplants and fry until golden. Blend walnuts, garlic, and spices into a paste. Spread onto eggplants and roll them up. Garnish with pomegranate seeds.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.huXgOA2hL7Cfn0-jW_KF5wHaLH?pid=ImgDet&w=180&h=180&c=7",
+      "strTags": "Eggplant, Vegetarian",
+      "strTime": "1 hour",
+      "strCalories": "320 kcal"
+    }, {
+      "idMeal": "UYG003",
+      "strMeal": "Kawap (Uyghur Kebab)",
+      "strCategory": "Grilled",
+      "strArea": "Uyghur",
+      "strInstructions": "Marinate lamb cubes with garlic, cumin, salt, and chili flakes. Skewer the meat and grill over an open flame or charcoal until crispy and juicy. Serve with naan and fresh vegetables.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.sUR6vG78Qu9zgSinYxgMQAHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+      "strTags": "Grilled, Meat",
+      "strTime": "1 hour",
+      "strCalories": "380 kcal"
+    },
+    {
+      "idMeal": "UYG004",
+      "strMeal": "Gosh Nan (Uyghur Meat Pie)",
+      "strCategory": "Pastry",
+      "strArea": "Uyghur",
+      "strInstructions": "Prepare dough and let it rest. Roll out and cut into circles. Fill with minced meat, onions, and spices. Seal and pan-fry until golden brown on both sides. Serve hot.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.qZL5JL8k05apC5BmQoNwiwAAAA?rs=1&pid=ImgDetMain",
+      "strTags": "Pastry, Fried",
+      "strTime": "1 hour",
+      "strCalories": "420 kcal"
+    },
+    {
+      "idMeal": "IT001",
+      "strMeal": "Margherita Pizza",
+      "strCategory": "Main Course",
+      "strArea": "Italian",
+      "strInstructions": "Roll out pizza dough and spread tomato sauce. Add fresh mozzarella and basil leaves. Bake in a preheated oven at 250°C (480°F) until crispy and golden. Serve hot.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.dHFDiu68ozHNQh2d3yrXmwHaHa?w=510&h=510&rs=1&pid=ImgDetMain",
+      "strTags": "Pizza, Cheese, Baked",
+      "strTime": "30 min",
+      "strCalories": "270 kcal"
+    },
+    {
+      "idMeal": "IT002",
+      "strMeal": "Spaghetti Carbonara",
+      "strCategory": "Main Course",
+      "strArea": "Italian",
+      "strInstructions": "Cook spaghetti in boiling salted water. In a pan, cook pancetta until crispy. Mix eggs, Parmesan cheese, and black pepper. Combine with spaghetti and pancetta, mixing quickly to create a creamy sauce. Serve immediately.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.8Y9lDSD6SziuWRQCLIvgmAHaHa?w=680&h=680&rs=1&pid=ImgDetMain",
+      "strTags": "Pasta, Creamy, Cheese",
+      "strTime": "25 min",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "IT003",
+      "strMeal": "Lasagna",
+      "strCategory": "Main Course",
+      "strArea": "Italian",
+      "strInstructions": "Layer cooked lasagna sheets with Bolognese sauce, béchamel, and grated Parmesan cheese. Repeat layers and bake at 180°C (350°F) for 45 minutes until golden. Serve hot.",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg",
+      "strTags": "Baked, Pasta, Cheese",
+      "strTime": "1.5 hours",
+      "strCalories": "600 kcal"
+    },
+    {
+      "idMeal": "IT004",
+      "strMeal": "Tiramisu",
+      "strCategory": "Dessert",
+      "strArea": "Italian",
+      "strInstructions": "Dip ladyfingers in coffee and layer with mascarpone cream. Repeat layers and dust with cocoa powder. Refrigerate for at least 4 hours before serving.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.NW4Q4fIDQTsxo8Nda70eBgHaFj?pid=ImgDet&w=180&h=180&c=7",
+      "strTags": "Sweet, Coffee, Creamy",
+      "strTime": "4 hours",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "IT005",
+      "strMeal": "Risotto alla Milanese",
+      "strCategory": "Main Course",
+      "strArea": "Italian",
+      "strInstructions": "Sauté onion in butter, add Arborio rice and cook for 2 minutes. Add white wine and let it evaporate. Gradually add hot broth, stirring constantly. Add saffron and Parmesan cheese, then serve warm.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.bHwOxRD37RlC6er1P9C7XAHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Rice, Creamy, Saffron",
+      "strTime": "40 min",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "IT006",
+      "strMeal": "Minestrone Soup",
+      "strCategory": "Soup",
+      "strArea": "Italian",
+      "strInstructions": "Sauté onions, carrots, and celery in olive oil. Add tomatoes, beans, pasta, and vegetable broth. Simmer until all ingredients are tender. Serve hot with grated Parmesan cheese.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.tg7UaX8wAxLP7so4o16GDAHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Soup, Vegetables, Healthy",
+      "strTime": "50 min",
+      "strCalories": "220 kcal"
+    },
+    {
+      "idMeal": "IT007",
+      "strMeal": "Osso Buco",
+      "strCategory": "Main Course",
+      "strArea": "Italian",
+      "strInstructions": "Brown veal shanks in olive oil. Add onions, carrots, celery, white wine, and tomatoes. Simmer for 2 hours until tender. Serve with gremolata (lemon zest, garlic, and parsley).",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.XivFTEnoEaeqkbx-XvNQewHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Meat, Braised, Savory",
+      "strTime": "2.5 hours",
+      "strCalories": "500 kcal"
+    },
+    {
+      "idMeal": "IT008",
+      "strMeal": "Bruschetta",
+      "strCategory": "Appetizer",
+      "strArea": "Italian",
+      "strInstructions": "Toast slices of bread. Rub with garlic and drizzle with olive oil. Top with chopped tomatoes, basil, salt, and pepper. Serve fresh.",
+      "strMealThumb": "https://th.bing.com/th/id/R.229749cbd101185909ad26fffd691bd4?rik=zWqRjO0tc2oj7g&pid=ImgRaw&r=0",
+      "strTags": "Bread, Tomato, Fresh",
+      "strTime": "15 min",
+      "strCalories": "180 kcal"
+    },
+    {
+      "idMeal": "IT009",
+      "strMeal": "Panna Cotta",
+      "strCategory": "Dessert",
+      "strArea": "Italian",
+      "strInstructions": "Heat cream, sugar, and vanilla. Dissolve gelatin in warm milk and mix with cream. Pour into molds and chill for at least 4 hours. Serve with berry sauce or caramel.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.rFhIMlhVF4TC0O-xZw2n5wHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Sweet, Creamy, Chilled",
+      "strTime": "4 hours",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "IT010",
+      "strMeal": "Caprese Salad",
+      "strCategory": "Salad",
+      "strArea": "Italian",
+      "strInstructions": "Slice fresh tomatoes and mozzarella. Arrange in layers with fresh basil. Drizzle with olive oil and balsamic vinegar. Season with salt and pepper.",
+      "strMealThumb": "https://th.bing.com/th/id/R.da4db02625004e24c7fad40c4c732224?rik=eB68GgQDLtRzCA&pid=ImgRaw&r=0",
+      "strTags": "Salad, Fresh, Healthy",
+      "strTime": "10 min",
+      "strCalories": "250 kcal"
+    },
+    {
+      "idMeal": "FR001",
+      "strMeal": "Ratatouille",
+      "strCategory": "Main",
+      "strArea": "French",
+      "strInstructions": "Chop eggplant, zucchini, bell peppers, and tomatoes. Sauté onions and garlic in olive oil. Add vegetables and herbs, simmer until tender. Serve hot or cold.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.ohYcOxxAHFbmqjHNcfe23wHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Vegetarian, Stew",
+      "strTime": "1 hour",
+      "strCalories": "180 kcal"
+    },
+    {
+      "idMeal": "FR002",
+      "strMeal": "Coq au Vin",
+      "strCategory": "Main",
+      "strArea": "French",
+      "strInstructions": "Marinate chicken in red wine with onions, carrots, and herbs. Sauté bacon and mushrooms, then brown chicken. Add marinade and simmer until tender. Serve with potatoes or bread.",
+      "strMealThumb": "https://th.bing.com/th/id/R.a6ec12f04030662eb8335473f3d486e0?rik=W9iCyU%2fCyxYrMg&pid=ImgRaw&r=0",
+      "strTags": "Chicken, Wine",
+      "strTime": "2.5 hours",
+      "strCalories": "450 kcal"
+    },
+    {
+      "idMeal": "FR003",
+      "strMeal": "Bouillabaisse",
+      "strCategory": "Soup",
+      "strArea": "French",
+      "strInstructions": "Sauté onions, garlic, and tomatoes. Add saffron, fish stock, and assorted seafood. Simmer until fish is cooked. Serve with rouille sauce and crusty bread.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.JeWq4c_75drskPMInm5TAAHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Seafood, Soup",
+      "strTime": "1.5 hours",
+      "strCalories": "320 kcal"
+    },
+    {
+      "idMeal": "FR004",
+      "strMeal": "Quiche Lorraine",
+      "strCategory": "Savory Pie",
+      "strArea": "French",
+      "strInstructions": "Prepare a shortcrust pastry. Fill with a mixture of eggs, cream, bacon, and cheese. Bake in a preheated oven at 180°C (356°F) until golden brown.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.2FatgbRGJVvb0bavNVCDOAHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Egg, Pastry",
+      "strTime": "1 hour",
+      "strCalories": "380 kcal"
+    },
+    {
+      "idMeal": "FR005",
+      "strMeal": "Crêpes",
+      "strCategory": "Dessert",
+      "strArea": "French",
+      "strInstructions": "Mix flour, eggs, milk, and butter into a smooth batter. Let rest for 30 minutes. Cook thin pancakes in a hot pan. Serve with jam, chocolate, or sugar.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.WBUQaJquS5YDNo-dedx_2wHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Sweet, Pancake",
+      "strTime": "45 min",
+      "strCalories": "210 kcal"
+    },
+    {
+      "idMeal": "FR006",
+      "strMeal": "French Onion Soup",
+      "strCategory": "Soup",
+      "strArea": "French",
+      "strInstructions": "Caramelize onions in butter, add beef broth and wine. Simmer for 45 minutes. Serve with toasted bread and melted cheese on top.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.b-gA_9wmIfu0msXKcCB1PQHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Soup, Cheese",
+      "strTime": "1.5 hours",
+      "strCalories": "250 kcal"
+    },
+    {
+      "idMeal": "ES001",
+      "strMeal": "Paella",
+      "strCategory": "Main Course",
+      "strArea": "Spanish",
+      "strInstructions": "Heat olive oil in a large pan. Sauté onions, garlic, and bell peppers. Add rice, saffron, and broth. Stir in seafood, chicken, or vegetables and cook until the liquid is absorbed. Serve hot with lemon wedges.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.6ZsA9w-_1_OJ9E0tOHR_3wHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Rice, Seafood, Traditional",
+      "strTime": "1 hour",
+      "strCalories": "600 kcal"
+    },
+    {
+      "idMeal": "ES002",
+      "strMeal": "Gazpacho",
+      "strCategory": "Soup",
+      "strArea": "Spanish",
+      "strInstructions": "Blend tomatoes, cucumbers, bell peppers, garlic, onion, olive oil, vinegar, and salt until smooth. Chill for at least 2 hours before serving. Garnish with diced vegetables and croutons.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.RU-pGGip-f8hL0WjRNqN7wHaG4?w=768&h=714&rs=1&pid=ImgDetMain",
+      "strTags": "Cold Soup, Refreshing, Vegetarian",
+      "strTime": "20 minutes",
+      "strCalories": "150 kcal"
+    },
+    {
+      "idMeal": "ES003",
+      "strMeal": "Tortilla Española",
+      "strCategory": "Main Course",
+      "strArea": "Spanish",
+      "strInstructions": "Slice potatoes and onions thinly. Fry in olive oil until tender. Beat eggs, mix with potatoes, and cook in a pan until set. Flip and cook the other side. Serve warm or cold.",
+      "strMealThumb": "https://th.bing.com/th/id/R.56c90535ef2ebd542a04f29e53a649b1?rik=GM%2bx%2bO48XKzNbA&pid=ImgRaw&r=0",
+      "strTags": "Eggs, Potatoes, Omelette",
+      "strTime": "45 minutes",
+      "strCalories": "250 kcal"
+    },
+    {
+      "idMeal": "ES004",
+      "strMeal": "Churros",
+      "strCategory": "Dessert",
+      "strArea": "Spanish",
+      "strInstructions": "Mix flour, water, and salt to form a dough. Pipe into hot oil and fry until golden brown. Drain and coat with sugar. Serve with hot chocolate for dipping.",
+      "strMealThumb": "https://th.bing.com/th/id/R.f39b5729640973d385a096ccbe340608?rik=I1w3dbY%2fV6%2bMrQ&riu=http%3a%2f%2fwww.txmercantile.com%2fcdn%2fshop%2fproducts%2fthumbnail-Homemade-Churros_1200x1200.jpg%3fv%3d1682020461&ehk=J%2baR7MaZLN4GX76D9i9hdoRSW8CNRg7bV9Vpiqe9KPA%3d&risl=&pid=ImgRaw&r=0",
+      "strTags": "Sweet, Fried, Snack",
+      "strTime": "30 minutes",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "ES005",
+      "strMeal": "Patatas Bravas",
+      "strCategory": "Side",
+      "strArea": "Spanish",
+      "strInstructions": "Cut potatoes into cubes and fry until crispy. Prepare a spicy tomato sauce with garlic, paprika, and vinegar. Serve the potatoes topped with the sauce and aioli.",
+      "strMealThumb": "https://cdn.shopify.com/s/files/1/0206/9470/collections/patatas-bravas.jpg?v=1447828552",
+      "strTags": "Spicy, Fried, Tapas",
+      "strTime": "40 minutes",
+      "strCalories": "300 kcal"
+    },
+    {
+      "idMeal": "ES006",
+      "strMeal": "Fabada Asturiana",
+      "strCategory": "Main Course",
+      "strArea": "Spanish",
+      "strInstructions": "Soak white beans overnight. Cook with chorizo, morcilla (black pudding), pork belly, and saffron until tender. Serve hot.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.xmFesrlGZ6536ybypIt5ywHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Beans, Hearty, Stew",
+      "strTime": "3 hours",
+      "strCalories": "700 kcal"
+    },
+    {
+      "idMeal": "ES007",
+      "strMeal": "Pimientos de Padrón",
+      "strCategory": "Side",
+      "strArea": "Spanish",
+      "strInstructions": "Heat olive oil in a pan. Fry Padrón peppers until blistered. Sprinkle with sea salt and serve immediately.",
+      "strMealThumb": "https://www.justspices.es/media/recipe/resized/510x510/recipe/pimientos-padron_1.jpg",
+      "strTags": "Vegetarian, Fried, Tapas",
+      "strTime": "15 minutes",
+      "strCalories": "120 kcal"
+    },
+    {
+      "idMeal": "ES009",
+      "strMeal": "Pulpo a la Gallega",
+      "strCategory": "Main Course",
+      "strArea": "Spanish",
+      "strInstructions": "Boil octopus until tender. Slice and drizzle with olive oil, sea salt, and paprika. Serve with boiled potatoes.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.SeW7Exel8SA_gp2wrXhWqQHaHa?rs=1&pid=ImgDetMain",
+      "strTags": "Seafood, Galician, Traditional",
+      "strTime": "1.5 hours",
+      "strCalories": "350 kcal"
+    },
+    {
+      "idMeal": "ES010",
+      "strMeal": "Crema Catalana",
+      "strCategory": "Dessert",
+      "strArea": "Spanish",
+      "strInstructions": "Heat milk with lemon zest and cinnamon. Whisk egg yolks with sugar and cornstarch. Combine and cook until thick. Chill, then caramelize sugar on top before serving.",
+      "strMealThumb": "https://th.bing.com/th/id/OIP.-oCDw8C9YKlYtp8wD1M_8wHaGK?rs=1&pid=ImgDetMain",
+      "strTags": "Custard, Sweet, Caramelized",
+      "strTime": "2 hours",
+      "strCalories": "250 kcal"
+    }
+  ]
+}
+
+
+    
+
+
+
+
+  
+    
+  
+
+
+    
+  
+
+

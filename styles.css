@@ -1,0 +1,23 @@
+@keyframes fade-in {
+  from {
+    translate: -25vw;
+    opacity: 0;
+  }
+  to {
+    translate: 0;
+    opacity: 1;
+  }
+}
+
+.card {
+  display: block;
+  margin-inline: auto;
+
+  animation-name: fade-in;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+
+  view-timeline-name: --fade-in-image;
+  animation-timeline: --fade-in-image;
+  animation-range: 20% 50%;
+}
